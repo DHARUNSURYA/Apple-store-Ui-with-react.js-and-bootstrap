@@ -1,0 +1,42 @@
+.slide02_container {
+  position: relative;
+  white-space: pre-wrap;
+  width: 400px;
+  height: 500px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+
+.slide02_image {
+  width: 400px;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.text-overlay {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-weight: bold;
+  background: transparent;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.sub-text {
+  background: transparent;
+  font-size: 16px;
+  opacity: 0.8;
+}
+
+.price {
+  background: transparent;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.title {
+  background: transparent;
+  word-wrap: nowrap;
+}

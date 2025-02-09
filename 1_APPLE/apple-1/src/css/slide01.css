@@ -1,0 +1,20 @@
+.slide01con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 120px;
+  height: 98px;
+}
+
+.slide01_img {
+  width: 120px;
+  height: 78px;
+  object-fit: contain;
+}
+
+.slide01_text {
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 8px;
+  text-align: center;
+}

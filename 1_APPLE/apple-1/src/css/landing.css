@@ -1,0 +1,62 @@
+.heart {
+  background-image: url("heart.png");
+  background-size: auto 220px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: auto;
+  height: 180px;
+}
+.spce01 {
+  height: 45px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.offText {
+  margin: 0;
+  background-color: white;
+  font-size: 14px;
+}
+
+.slide01 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.slide-container {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  color: gray;
+  font-size: 23px;
+  font-weight: 5000;
+}
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+.highlightLite {
+  color: red;
+}
+.slide02 {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+  overflow-x: auto;
+  min-width: 100%;
+  overflow-x: auto;
+  box-shadow: 5px;
+}
